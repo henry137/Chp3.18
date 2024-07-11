@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Examples\\examples\\ch03\\Chp 3.18\\Chp 3.18.csproj",
-      "projectName": "Chp 3.18",
-      "projectPath": "D:\\Examples\\examples\\ch03\\Chp 3.18\\Chp 3.18.csproj",
+      "projectUniqueName": "C:\\Users\\hlcma\\Desktop\\Chp3.18 Seperate Main\\Chp3.18 Seperate Main.csproj",
+      "projectName": "Chp3.18 Seperate Main",
+      "projectPath": "C:\\Users\\hlcma\\Desktop\\Chp3.18 Seperate Main\\Chp3.18 Seperate Main.csproj",
       "packagesPath": "C:\\Users\\hlcma\\.nuget\\packages\\",
-      "outputPath": "D:\\Examples\\examples\\ch03\\Chp 3.18\\obj\\",
+      "outputPath": "C:\\Users\\hlcma\\Desktop\\Chp3.18 Seperate Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hlcma\\AppData\\Roaming\\NuGet\\NuGet.Config",
